@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">constraint layout</string>
+    <string name="john_doe">John Doe</string>
+    <string name="customer">Customer Testimonial</string>
+</resources>
